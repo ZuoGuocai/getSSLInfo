@@ -1,7 +1,7 @@
 /* 
   Author: zuoguocai@126.com
 Function: getSSLInfo
- version: 1.0
+ version: 2.0
 */
 package main
 
