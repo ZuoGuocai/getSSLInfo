@@ -69,7 +69,7 @@ func genTable(data [][]string) {
 
 func main() {
 
-	var myurl = [...]string{"https://youtube.com", "https://google.com", "https://www.hao123.com","https://www.baidu.com"}
+	var myurl = [...]string{"https://www.taobao.com", "https://www.qq.com", "https://www.hao123.com","https://www.baidu.com"}
  	var tableList [][]string
 	for _, v := range myurl {
 		oneList:= getSSLInfo(v)
