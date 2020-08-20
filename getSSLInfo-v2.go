@@ -119,7 +119,7 @@ func  sendMail(html_content string){
 
 func main() {
 
-	var myUrl = [...]string{"https://youtube.com", "https://google.com", "https://www.hao123.com","https://www.baidu.com"}
+	var myUrl = [...]string{"https://www.taobao.com", "https://www.qq.com", "https://www.hao123.com","https://www.baidu.com"}
  	var tableList [][]string
 	for _, v := range myUrl {
 	        oneList:= getSSLInfo(v)
